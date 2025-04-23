@@ -1,0 +1,2 @@
+# student.c
+for student 
